@@ -345,6 +345,10 @@ void loop() {
 
 - https://wokwi.com/projects/433043378372585473
 
+## Link do vídeo
+
+- https://www.youtube.com/watch?v=fe8XRGucMbU
+
 
 ## Autores
 **Stack-Society** 
