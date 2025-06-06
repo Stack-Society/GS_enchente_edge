@@ -341,6 +341,10 @@ void loop() {
 }
 ```
 
+## Link do simulador
+
+- https://wokwi.com/projects/433043378372585473
+
 
 ## Autores
 **Stack-Society** 
