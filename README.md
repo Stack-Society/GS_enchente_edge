@@ -161,22 +161,14 @@ def atualizar_grafico(dados_enchente):
 
 # Ponto de entrada para rodar o app Dash
 if __name__ == '__main__':
-<<<<<<< HEAD
-    app.run(debug=True, host=HOST_DASH, port=8050) 
-=======
     app.run(debug=True, host=HOST_DASH, port=8050)
 
 
->>>>>>> d32cf80 (Adiciona comentários ao dashboard e arruma readme)
 ```
 
 ## Código - ESP32 (C++)
 
-<<<<<<< HEAD
-```c++
-=======
 ```cpp
->>>>>>> d32cf80 (Adiciona comentários ao dashboard e arruma readme)
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
